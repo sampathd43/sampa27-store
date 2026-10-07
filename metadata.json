@@ -1,0 +1,6 @@
+{
+  "name": "LankaMart - Unified Grocery & Order System",
+  "description": "Sri Lankan online grocery store MVP with unified physical shop POS, real-time stock sync, WhatsApp orders, order tracking, and bilingual Sinhala/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
